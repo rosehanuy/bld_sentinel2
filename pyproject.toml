@@ -1,0 +1,12 @@
+[project]
+name = "bld_src"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = ["pandas", "geopandas", "numpy", "matplotlib", "openpyxl", "shapely"]
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["bld_src"]
