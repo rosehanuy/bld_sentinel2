@@ -38,5 +38,5 @@ SITE_MAP = {
     'VCP':  'Van Cortlandt Park',
 }
 
-BURDEN_METRICS = ['banded_burden', 'curled_burden','no_symptom'] 
+BURDEN_METRICS = ['banded_burden', 'curled_burden','no_symptom_burden'] 
 SEVERITY_METRICS = ['banded_mean_severity','curled_mean_severity','no_symptom_mean_severity']
