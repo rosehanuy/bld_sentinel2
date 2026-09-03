@@ -1,4 +1,4 @@
-name: catskills-env
+name: bld-env
 channels:
   - conda-forge
   - defaults
